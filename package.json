@@ -1,11 +1,11 @@
 {
-  "name": "send-zalo-msg-module",
+  "name": "send-zalo-msg-module-new",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
-  "repository": "https://github.com/buingoctai/Send-zalo-msg-module.git",
+  "repository": "https://github.com/buingoctai/Send-zalo-msg-module-new.git",
   "author": "buingoctai <buingoctai994@gmail.com>",
   "license": "MIT",
   "private": true,
